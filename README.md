@@ -1,7 +1,7 @@
 ### Olá, meu nome é Guilherme Navevaiko! 👋
 
-- 🔭 Trabalho com front-end
-- 🌱 Atualmente estou aprendendo Javascript, PHP e Kotlin
+- 🔭 Trabalho com front e back-end
+- 🌱 Atualmente estou aprendendo React e Node
 - 📫 Meu Email -> Guilherme_navevaiko@hotmail.com
 
  <div>
